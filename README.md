@@ -10,9 +10,9 @@
 Automação de abertura de chamados no GLPI para agilizar processos da equipe de TI e Infraestrutura.
 
 ## Description
-Este projeto automatiza a criação de chamados no GLPI usando Python e Playwright. Ele permite integração com Google Sheets, gera logs de status de cada chamado e simplifica o acompanhamento das solicitações. Ideal para equipes de TI e Infraestrutura que precisam reduzir tarefas manuais e aumentar a eficiência no atendimento.
+Este projeto automatiza a criação de chamados no GLPI usando Python e Playwright. Ele permite integração com Google Sheets, gera logs de status de cada chamado e simplifica o acompanhamento das solicitações. Ideal para equipes de Facilites e Manutenção que precisam aumentar a eficiência. Assim abrindo o chamado para o pessoal da manutençao atraves do Qrcode que esta com o link do formulario. 
 
-## Equipe
+## Autores/Equipe
 
 | Nome           | Função                   | GitHub |
 |----------------|-------------------------|--------|
@@ -26,7 +26,7 @@ Este projeto automatiza a criação de chamados no GLPI usando Python e Playwrig
 - **Área:** Tecnologia da Informação – Infraestrutura e Desenvolvimento  
 - **Versão:** 1.0  
 - **Data de Criação:** 2025  
-- **Autores/Equipe:** Equipe de TI, Infraestrutura e Desenvolvimento LECLAIR
+- **Empresa:** Leclair Industria e Comercio de Perfumes e Cosmeticos Ltda
 
 ## 2. Objetivo
 O software foi desenvolvido para automatizar a abertura de chamados no sistema GLPI, utilizando informações armazenadas em planilhas do Google Sheets.  

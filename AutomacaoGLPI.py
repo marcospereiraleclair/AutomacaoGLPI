@@ -25,6 +25,9 @@ load_dotenv("key.env")  # carrega o key.env
 GLPI_URL = os.getenv("GLPI_URL")
 USUARIO = os.getenv("GLPI_USER")
 SENHA = os.getenv("GLPI_PASS")
+SHEET_JSON = os.getenv("SHEET_JSON")
+GLPI_FORM_URL = os.getenv("GLPI_FORM_URL")
+
 
 # Possíveis caminhos do Chrome
 CHROME_PATHS = [
@@ -93,7 +96,7 @@ with sync_playwright() as pw:
                 print(f"Abrindo chamado para {nome}")
 
                 # Atualizar página antes de abrir novo chamado
-                page.goto("http://glpi.leclair.local/marketplace/formcreator/front/formdisplay.php?id=27")
+                page.goto(GLPI_FORM_URL)
                 page.wait_for_timeout(10)  # espera 10s para carregar
 
                 # Preencher campos

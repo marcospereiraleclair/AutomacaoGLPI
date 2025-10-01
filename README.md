@@ -17,7 +17,7 @@ Este projeto automatiza a criação de chamados no GLPI usando Python e Playwrig
 | Nome           | Função                   | GitHub |
 |----------------|-------------------------|--------|
 | ![Marcos](https://img.icons8.com/color/48/000000/user.png) Marcos Pereira | Analista de TI JR     | [@marcospereira](https://github.com/marcospereiraleclair) |
-| ![Cezar](https://img.icons8.com/color/48/000000/user.png) Marcos Pereira | Assistente de Tecnologia da Informação  | [@cezarmussoi](https://github.com/cezarmussoilec) |
+| ![Cezar](https://img.icons8.com/color/48/000000/user.png) Cezar Mussoi | Assistente de Tecnologia da Informação  | [@cezarmussoi](https://github.com/cezarmussoilec) |
 
 
 ## 1. Identificação do Software

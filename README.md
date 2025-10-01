@@ -51,15 +51,19 @@ O sistema visa reduzir o tempo de atendimento e melhorar a rastreabilidade dos c
    - Arquivo de credenciais JSON (tratar como criptografado/confidencial).  
    - Nome da planilha e coluna de controle (`Chamado Aberto`).  
    - Escopo da API do Google Drive e Sheets.
+   - (https://prnt.sc/8YDJfXpqstGR)
+   - (https://prnt.sc/DNp-ZpXwO_zA)
 
 2. **Autenticação**
    - Login no GLPI utilizando credenciais (não incluídas nesta documentação).  
    - Seleção do caminho do navegador Chrome entre possíveis localizações.
+   - (https://prnt.sc/apIDYkZ8s5ne)
 
 3. **Automação do Navegador**
    - Inicialização do navegador Chromium com Playwright em modo headless.  
    - Preenchimento de formulário no GLPI com dados do Google Sheets.  
    - Registro de erros com captura de tela e HTML da página.
+   - (https://prnt.sc/95mzQLGqhDWC)
 
 ### 4.3 Loop Contínuo
 - Iteração sobre todas as linhas da planilha.  

@@ -1,8 +1,24 @@
 # Automação de Chamados GLPI
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Playwright](https://img.shields.io/badge/Playwright-1.41-purple?logo=playwright&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-orange)
 ![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
+
+
+# Summary
+Automação de abertura de chamados no GLPI para agilizar processos da equipe de TI e Infraestrutura.
+
+## Description
+Este projeto automatiza a criação de chamados no GLPI usando Python e Playwright. Ele permite integração com Google Sheets, gera logs de status de cada chamado e simplifica o acompanhamento das solicitações. Ideal para equipes de TI e Infraestrutura que precisam reduzir tarefas manuais e aumentar a eficiência no atendimento.
+
+## Equipe
+
+| Nome           | Função                   | GitHub |
+|----------------|-------------------------|--------|
+| ![Marcos](https://img.icons8.com/color/48/000000/user.png) Marcos Pereira | Analista de TI JR     | [@marcospereira](https://github.com/marcospereiraleclair) |
+| ![Cezar](https://img.icons8.com/color/48/000000/user.png) Marcos Pereira | Assistente de Tecnologia da Informação  | [@cezarmussoi](https://github.com/cezarmussoilec) |
+
 
 ## 1. Identificação do Software
 - **Nome do Sistema:** Automação de Chamados GLPI  
